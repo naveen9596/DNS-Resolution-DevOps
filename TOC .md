@@ -2,19 +2,19 @@
 
 ## 1.Hybrid DNS Resolution
 Module 1: Introduction to DNS Concepts
-oOverview of DNS and its role in hybrid environments
+- Overview of DNS and its role in hybrid environments
 oKey differences between public and private DNS zones
-Module 2: Private Resolvers
+- Module 2: Private Resolvers
 oSetting up and configuring private DNS resolvers in hybrid cloud environments (AWS/Azure)
-Module 3: DNS Forwarding Ruleset
+- Module 3: DNS Forwarding Ruleset
 oUnderstanding DNS forwarding in hybrid architecture
 oConfiguring forwarding rulesets
 
 ## 2.Hybrid DNS and Connectivity
-Module 1: Conditional DNS Forwarding
+- Module 1: Conditional DNS Forwarding
 oCreating conditional forwarding rules between Azure and on-premises networks
 oHands-on: Configuring DNS for hybrid network environments
-Module 2: Private DNS Zones
+- Module 2: Private DNS Zones
 oCreating and managing private DNS zones
 oUse cases: Internal name resolution
 
